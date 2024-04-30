@@ -1,0 +1,74 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/imagea_1.png
+  - assets/images/image_1.png
+  - assets/images/unsplash_wpzlpw_jx_0_lk.jpeg
+  - assets/images/image.jpeg
+  - assets/images/image_1.jpeg
+  - assets/images/unsplashx_kevndp_s_4_i_0.jpeg
+  - assets/images/pictures.jpeg
+  - assets/images/aloe_vera_14.png
+  - assets/images/px_starbucks_corporation_logo_20111.png
+  - assets/images/aloe_vera_12.png
+  - assets/images/strive_logo_plain_blk_1.png
+  - assets/vectors/coffee_1_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/temprature_x2.svg
+  - assets/vectors/home_22_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/explore_x2.svg
+  - assets/vectors/explore_1_x2.svg
+  - assets/vectors/home_2_x2.svg
+  - assets/vectors/subtract_1_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/flash_slash_1_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/saved_1_x2.svg
+  - assets/vectors/add_x2.svg
+  - assets/vectors/subtract_x2.svg
+  - assets/vectors/search_normal_1_x2.svg
+  - assets/vectors/tick_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/add_square_x2.svg
+  - assets/vectors/union_1_x2.svg
+  - assets/vectors/union_4_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/saved_x2.svg
+  - assets/vectors/add_1_x2.svg
+  - assets/vectors/union_3_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/star_1_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/sun_x2.svg
+  - assets/vectors/scan_1_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/ruler_1_x2.svg
+  - assets/vectors/line_26_x2.svg
+  - assets/vectors/star_2_x2.svg
+
